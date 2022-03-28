@@ -1,9 +1,4 @@
 #promotional_code {
   display: none;
   visibility: hidden;
-}
-
-.product_icon.image::before {
-   content:url(http://placekitten.com/g/200/300);
-}
-  
+} 
