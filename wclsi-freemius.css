@@ -3,7 +3,7 @@
   visibility: hidden;
 }
 
-.product_icondiv.image::before {
+.product_icon.image::before {
    content:url(http://placekitten.com/g/200/300);
 }
   
