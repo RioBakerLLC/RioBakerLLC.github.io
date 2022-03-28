@@ -1,4 +1,4 @@
-#content_container {
-  color: blue;
-  background-color: blue;
+#promotional_code {
+  display: none;
+  visibility: hidden;
 }
